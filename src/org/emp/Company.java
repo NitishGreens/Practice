@@ -8,6 +8,8 @@ public class Company {
 		System.out.println("welce");
 		System.out.println("welome");
 		System.out.println("wecome");
+		System.out.println("Welcome to java");
+		System.out.println("Welcome to python");
 	}
 
 }
