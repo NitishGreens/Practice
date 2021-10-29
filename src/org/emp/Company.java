@@ -10,6 +10,8 @@ public class Company {
 		System.out.println("wecome");
 		System.out.println("Welcome to java");
 		System.out.println("Welcome to python");
+		System.out.println("wecome to oracle");
+		System.out.println("wecome to selenium");
 	}
 
 }
